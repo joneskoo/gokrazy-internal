@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/gokrazy/internal/fat"
+	"github.com/joneskoo/gokrazy-internal/fat"
 )
 
 func Example() {
